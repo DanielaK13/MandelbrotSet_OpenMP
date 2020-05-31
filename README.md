@@ -3,7 +3,7 @@
 
 The Mandelbrot set is a set of complex numbers. [This code](mandelbrotParalel.cpp) parallelizes the mandelbrot using OpenMP.
 
-<img src="figures/example.PNG" width="200">
+<img src="figures/example.PNG" width="500">
 
 ## Getting started
 
