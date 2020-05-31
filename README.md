@@ -30,7 +30,7 @@ I used a Intel® Core™ i7-2600 CPU @ 3.40GHz × 8, 4 physical cores and 4 logi
 - 768 columns;
 - 18000 iterations.
 
-| Threads | Time | Speedup | Efficiency | Cost |
+| Threads | Time (sec) | Speedup | Efficiency | Cost (sec) |
 | --- | --- | --- | --- | --- |
 | 1 | 582 | 1 | 100% | 582 |
 | 2 | 287,4 | 2,025 | 101,25% | 574,8 |
