@@ -14,9 +14,9 @@ The Mandelbrot set is a set of complex numbers. [This code](mandelbrotParalel.cp
 
 ### Compiling
 
-g++ mandelbrotParalel.cpp -o a.out -std=c++11 -fopenmp
+#### g++ mandelbrotParalel.cpp -o a.out -std=c++11 -fopenmp
 
-time ./a.out
+#### time ./a.out
 
 The output of mandelbrot is printed in a .txt file.
 
@@ -25,10 +25,10 @@ The output of mandelbrot is printed in a .txt file.
 
 I used a Intel® Core™ i7-2600 CPU @ 3.40GHz × 8, 4 physical cores and 4 logical cores, 8 GB of RAM and Ubuntu 16.04 LTS 64-bit operating system to run the tests.
 
-##### Input: 
-- 1024 rows;
-- 768 columns;
-- 18000 iterations.
+#### Input: 
+#####- 1024 rows;
+#####- 768 columns;
+#####- 18000 iterations.
 
 Threads\tab Time 	\tab	Speedup \tab		Efficiency 	\tab	Cost 
 
