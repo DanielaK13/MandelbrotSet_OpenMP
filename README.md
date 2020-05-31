@@ -32,13 +32,13 @@ I used a Intel® Core™ i7-2600 CPU @ 3.40GHz × 8, 4 physical cores and 4 logi
 - 768 columns;
 - 18000 iterations.
 
-**|Threads|Time |Speedup|Efficiency|Cost |**
-  |-------|-----|-------|----------|-----|
-  |1	  |582  |1      |100%      |582  |
-  |2	  |287,4|2,025  |101,25%   |574,8|
-  |4	  |158,3|3,676  |91,9%     |633,2|
-  |8 	  |103  |5,650  |70,625%   |824  |
-  |16 	  |104 	|5,596  |69,95%    |832  |
+| Threads | Time | Speedup | Efficiency | Cost |
+| --- | --- | --- | --- | --- |
+| 1 | 582 | 1 | 100% | 582 |
+| 2 | 287,4 | 2,025 | 101,25% | 574,8 |
+| 4 | 158,3 | 3,676 | 91,9% | 633,2 |
+| 8 | 103 | 5,650 | 70,625% | 824 |
+| 16 | 104 | 5,596 | 69,95% | 832 |
 
 #### This was an assignment for Parallel and Distributed Programming class by Ph.D Marcelo Trindade Rebonatto from University of Passo Fundo.
 
